@@ -1,0 +1,2 @@
+# mindspore_bert
+使用mindspore的bert做finetune
